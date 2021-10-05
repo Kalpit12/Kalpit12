@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kalpit12
 - 👀 I’m interested in ...coding and software
 - 🌱 I’m currently learning ...computer engineering
-- 💞️ I’m looking to collaborate on ...various coding and software realated
+- 💞️ I’m looking to collaborate on ...various coding and software related stuff
+
 - 📫 How to reach me ...kalpitpatel751@gmail.com
 
 <!---
