@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kalpit12
+- 👋 Hi, I’m @Kalpit
 - 👀 I’m interested in ...coding and software
 - 🌱 I’m currently learning ...computer engineering
 - 💞️ I’m looking to collaborate on ...various coding and software related stuff
